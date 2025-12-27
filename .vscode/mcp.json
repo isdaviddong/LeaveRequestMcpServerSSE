@@ -1,0 +1,8 @@
+{
+    "servers": {
+        "MyLeaveMcp": {
+            "type": "http",
+            "url": "https://c38g9tvz-5177.asse.devtunnels.ms/sse"
+        }
+    }
+} 
